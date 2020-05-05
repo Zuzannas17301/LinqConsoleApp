@@ -1,0 +1,2 @@
+# LinqConsoleApp
+Ćw 9 
